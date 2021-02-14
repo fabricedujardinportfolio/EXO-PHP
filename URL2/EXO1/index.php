@@ -1,5 +1,4 @@
 <?php
-
 $age  = 18;
 echo "$age <br>";
 if($age >= 18){
@@ -7,5 +6,4 @@ if($age >= 18){
 }else{
     echo "Vous êtes mineur";
 }
-
 ?>
